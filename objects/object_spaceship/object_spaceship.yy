@@ -2,7 +2,7 @@
     "id": "f99bb3f4-0565-4f2a-b098-0c488bcafed3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object2",
+    "name": "object_spaceship",
     "eventList": [
         {
             "id": "22c378a3-ec0c-48e4-a978-ba34b4419053",
@@ -72,6 +72,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 32,
             "eventtype": 9,
+            "m_owner": "f99bb3f4-0565-4f2a-b098-0c488bcafed3"
+        },
+        {
+            "id": "2dd46dfd-0336-41bf-babe-0d80086f5d60",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "f0ba87b2-d27b-4f3f-a3ac-906add611d01",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "f99bb3f4-0565-4f2a-b098-0c488bcafed3"
         }
     ],
