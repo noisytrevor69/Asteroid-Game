@@ -1,8 +1,8 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
-/// @DnDHash : 5276252B
-/// @DnDArgument : "var" "Score"
-Score = 0;
+/// @DnDHash : 24B6BE8C
+
+__dnd_score = real(0);
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1

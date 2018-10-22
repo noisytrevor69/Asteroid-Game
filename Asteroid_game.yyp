@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "64e0e9bd-52ec-4223-8eb7-0645d9e683c2",
+            "Value": {
+                "id": "a8d280cc-7285-4d5f-9c5f-412b27a77799",
+                "resourcePath": "objects\\object_spaceshipbackup\\object_spaceshipbackup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6dfa4d08-3e75-4517-9490-02f104353079",
             "Value": {
                 "id": "ac994d36-e3be-4496-9f29-8d7155f9d460",
