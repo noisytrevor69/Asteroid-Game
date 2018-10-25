@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "object_Game_Over",
     "eventList": [
-        
+        {
+            "id": "b5da3ec1-e5b9-440f-abd8-7aa0aae8dcba",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "ab678d5b-63c2-40a7-a964-bc176eb1a45b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

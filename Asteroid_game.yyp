@@ -218,7 +218,7 @@
             "Key": "95929592-05ec-473f-b8d3-57f66a5d59c9",
             "Value": {
                 "id": "4ea4f1b0-bf8b-4cc3-a953-e36b9ba2b5a0",
-                "resourcePath": "sprites\\sprite01\\sprite01.yy",
+                "resourcePath": "sprites\\sprite_background_2\\sprite_background_2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -306,7 +306,7 @@
             "Key": "d9220e43-7f12-4027-8ff7-1a056db4bdf9",
             "Value": {
                 "id": "b1133108-da0a-48b1-b5ed-03500d4626ad",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourcePath": "sprites\\sprite_background_1\\sprite_background_1.yy",
                 "resourceType": "GMSprite"
             }
         },

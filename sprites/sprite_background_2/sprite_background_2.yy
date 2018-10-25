@@ -2,7 +2,7 @@
     "id": "95929592-05ec-473f-b8d3-57f66a5d59c9",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite01",
+    "name": "sprite_background_2",
     "For3D": false,
     "HTile": false,
     "VTile": false,

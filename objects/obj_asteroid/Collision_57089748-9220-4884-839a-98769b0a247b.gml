@@ -12,5 +12,4 @@ __dnd_lives += real(-1);
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 2A98C3CB
-/// @DnDApplyTo : f99bb3f4-0565-4f2a-b098-0c488bcafed3
-with(object_spaceship) instance_destroy();
+instance_destroy();

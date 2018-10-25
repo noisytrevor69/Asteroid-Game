@@ -1,14 +1,12 @@
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 0D5F5A9D
-/// @DnDArgument : "steps" "100"
-alarm_set(0, 100);
+/// @DnDHash : 7776394C
+speed = 0;
 
-/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDAction : YoYo Games.Movement.Jump_To_Point
 /// @DnDVersion : 1
-/// @DnDHash : 452D1508
-/// @DnDArgument : "xpos" "512"
-/// @DnDArgument : "ypos" "384"
-/// @DnDArgument : "objectid" "object_spaceship"
-/// @DnDSaveInfo : "objectid" "f99bb3f4-0565-4f2a-b098-0c488bcafed3"
-instance_create_layer(512, 384, "Instances", object_spaceship);
+/// @DnDHash : 6127A998
+/// @DnDArgument : "x" "512"
+/// @DnDArgument : "y" "384"
+x = 512;
+y = 384;
